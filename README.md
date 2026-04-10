@@ -13,7 +13,7 @@ SQL solutions to Leetcode problems (Easy & Medium).
 ## 📊 Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 8    |
+| Easy       | 9    |
 | Medium     | 4    |
 
 ## 🔗 Profile
