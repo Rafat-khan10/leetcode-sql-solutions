@@ -1,7 +1,7 @@
 -- Problem: Recyclable and Low Fat Products
 -- Difficulty: Easy
 -- Source: Leetcode
--- Link:https://leetcode.com/problems/calculate-special-bonus/description/
+-- Link:https://leetcode.com/problems/recyclable-and-low-fat-products/description/
 
 -- Solution:
 SELECT 
