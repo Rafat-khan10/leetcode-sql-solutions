@@ -1,20 +1,20 @@
-# Leetcode SQL Solutions
+# LeetCode SQL Solutions
 
-SQL solutions to Leetcode problems (Easy & Medium).
+SQL solutions to LeetCode problems (Easy & Medium).
 
 ## 📁 Structure
-- `easy/` — Easy level problems
-- `medium/` — Medium level problems
+- `easy/` — Easy-level problems
+- `medium/` — Medium-level problems
 
 ## 🛠️ Topics Covered
-- Joins, Subqueries, Window Functions,
+- Joins, Subqueries, Window Functions
   CTEs, Aggregations, String Functions
 
 ## 📊 Progress
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 12    |
-| Medium     | 6    |
+| Medium     | 7    |
 
 ## 🔗 Profile
-[My Leetcode Profile] https://leetcode.com/u/Rafat_khan/
+[My LeetCode Profile] https://leetcode.com/u/Rafat_khan/
