@@ -14,7 +14,7 @@ SQL solutions to LeetCode problems (Easy & Medium).
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 25    |
-| Medium     | 13    |
+| Medium     | 14    |
 | Hard       | 1     |
 
 ## 🔗 Profile
